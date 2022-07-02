@@ -28,7 +28,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '7ae2d13b4f419e1ed824c1fa9ded7dd48dbc332d0fef648d'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['bingo-blog-app.herokuapp.com']
 
